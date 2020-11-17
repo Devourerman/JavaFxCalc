@@ -1,0 +1,10 @@
+.btn:pressed{
+    -fx-background-color: #898989!important;
+    -fx-rotate: 10;
+}
+
+.equal:pressed{
+    -fx-text-fill: red;
+    -fx-border-radius: 50%;
+    -fx-background-color: black!important;
+}
